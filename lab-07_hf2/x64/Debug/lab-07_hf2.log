@@ -1,0 +1,4 @@
+﻿  hf-2cpp.cpp
+D:\vs_gyakorlas\pr2-work\lab-07_hf2\hf-2cpp.cpp(78,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\vs_gyakorlas\pr2-work\lab-07_hf2\hf-2cpp.cpp(113,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  lab-07_hf2.vcxproj -> D:\vs_gyakorlas\pr2-work\lab-07_hf2\x64\Debug\lab-07_hf2.exe
